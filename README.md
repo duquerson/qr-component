@@ -34,8 +34,8 @@ Your challenge is to build out this QR code component and get it looking as clos
 
 ### Links
 
-- Solution: [here](https://github.com/duquerson/QR_component)
-- Live Site: [here](https://duquerson.github.io/QR_component/)
+- Solution: [here](https://github.com/duquerson/qr-component)
+- Live Site: [here](https://componentqr.vercel.app/)
 
 ## My process
 
