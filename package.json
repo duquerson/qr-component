@@ -6,7 +6,8 @@
   "scripts": {
     "css1": "npx tailwindcss -i ./dist/input.css -o ./src/style.css --watch",
     "css2": "npx tailwindcss -i ./dist/input.css -o ./src/style.css --minify",
-    "html": "pug ./dist/index.pug -o ./src/ -w -P"
+    "html": "pug ./dist/index.pug -o ./src/ -w -P",
+    "html1": "pug ./dist/index.pug -o ./src/ -w"
   },
   "repository": {
     "type": "git",
